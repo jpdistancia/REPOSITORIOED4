@@ -14,8 +14,10 @@ public class ProyectoGitHub
 
     public static void main(String[] args) 
     {
+        //Declaración y creación de un objeto
         A objA = new A(5);
         
+        //Impresión del valor de un atributo
         System.out.println(objA.getAtr1());
     }
 }
