@@ -14,7 +14,7 @@ public class ProyectoGitHub
 
     public static void main(String[] args) 
     {
-       
+        //otro texto
         
         //Declaración y creación de un objeto
         A objA = new A(5);
